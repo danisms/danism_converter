@@ -1,4 +1,4 @@
-# danism_converter
+# Danism_Converter
 Convert currency and metric measurement (Length, Mass, Time, Temperature and 16 world most used currencies)
 Danism-Converter is a tool which aids quick currency metric measurements conversion.
 
